@@ -1,0 +1,1 @@
+C:\Exam23.11\Exam\Exam.WebApi\obj\Debug\Exam.WebApi.csprojResolveAssemblyReference.cache

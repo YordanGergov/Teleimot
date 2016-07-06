@@ -1,0 +1,10 @@
+C:\Exam23.11\Exam\Exam.WCF\obj\Debug\Exam.WCF.csprojResolveAssemblyReference.cache
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.WCF.dll.config
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.WCF.dll
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.WCF.pdb
+C:\Exam23.11\Exam\Exam.WCF\obj\Debug\Exam.WCF.dll
+C:\Exam23.11\Exam\Exam.WCF\obj\Debug\Exam.WCF.pdb
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.Data.dll
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.Models.dll
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.Data.pdb
+C:\Exam23.11\Exam\Exam.WCF\bin\Exam.Models.pdb

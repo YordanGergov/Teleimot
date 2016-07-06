@@ -1,0 +1,16 @@
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Exam.Data.dll
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Exam.Data.pdb
+C:\Exam23.11\Exam\Exam.Data\obj\Debug\Exam.Data.csprojResolveAssemblyReference.cache
+C:\Exam23.11\Exam\Exam.Data\obj\Debug\Exam.Data.dll
+C:\Exam23.11\Exam\Exam.Data\obj\Debug\Exam.Data.pdb
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Exam.Models.dll
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Exam.Models.pdb
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Exam.Data.dll.config
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\EntityFramework.dll
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\EntityFramework.xml
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Exam23.11\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
