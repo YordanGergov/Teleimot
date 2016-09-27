@@ -1,2 +1,2 @@
-# Teleimot.bg
+# Teleimot
 Parts of the endpoints can be accessed by anonymous users and other parts need authentication. Users register with username, e-mail and password and then can request token for authentication and authorization. Users can post ads about real estates they are selling or are giving for rent. Ads can be viewed or commented on. Additionally, each user can receive ratings from 1 to 5 from other people. 
